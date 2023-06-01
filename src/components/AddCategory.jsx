@@ -22,6 +22,9 @@ export const AddCategory = ({ onNewCategory }) => {
         value={inputValue}
         onChange={onInputChange}
       />
+      <button type="submit" className="buttons icon-button ">
+        Buscar
+      </button>
     </form>
   );
 };

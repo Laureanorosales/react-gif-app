@@ -61,3 +61,17 @@ h3 {
 .card img {
   width: 100%;
 }
+.buttons {
+  align-content: center;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: teal;
+}
